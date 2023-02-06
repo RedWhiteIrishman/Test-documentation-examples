@@ -4,4 +4,7 @@
 
 [Чек-листы и Тест-кейсы, составленные в GoogleSheets и TestLink](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit?usp=sharing)
 
+[Баг-репорты, составленные в GoogleSheets и Redmine](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=2028811225)
+
+
 [Составление и отправка запросов к API: GET, POST, PUT, DELETE](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=745819973)
