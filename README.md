@@ -6,5 +6,6 @@
 
 [Баг-репорты, составленные в GoogleSheets и Redmine](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=2028811225)
 
+[Простые SQL-запросы в MySQL Workbench](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=1625278929)
 
 [Составление и отправка запросов к API: GET, POST, PUT, DELETE](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=745819973)
