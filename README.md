@@ -14,6 +14,8 @@
 
 [Таблица принятия решений](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=1250494608)
 
+[Сессионное тестирование](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=1410955425)
+
 [Тест-план для интернет-магазина atribytikavityaz.ru](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=1314413716)
 
 [Простые SQL-запросы в MySQL Workbench](https://docs.google.com/spreadsheets/d/1hHsnR_DWLeNU2835WXmLkP4NCeU1G9ItkKqzOHJswwE/edit#gid=1625278929)
